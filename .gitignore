@@ -1,0 +1,14 @@
+log
+data
+dataset
+backup
+models
+venv
+*.pyc
+*.npy
+nohup.out
+*.swp
+*.pkl
+models*
+result*
+serving_models
